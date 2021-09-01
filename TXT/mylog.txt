@@ -1,3 +1,10 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 30 L86 House chores
-ZCZC W00 30 L03 GitHub related
-ZCZC W00 15 L04 GitHub page related
+ZCZC W00 15 L03 GitHub related (GSGS)
+ZCZC W00 15 L04 GitHub page related (GSGS)
+ZCZC W00 05 L10 Assignment 1 (Done)
+ZCZC W00 05 L11 Assignment 2 (Done)
+ZCZC W00 05 L12 Assignment 3 (Done)
+ZCZC W00 05 L13 Assignment 4 (Done)
