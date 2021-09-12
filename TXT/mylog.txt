@@ -14,3 +14,7 @@ ZCZC W01 20 L11 Assignment 1 (Done)
 ZCZC W01 120 L12 Assignment 2 (Done)
 ZCZC W01 45 L14 Assignment 4 (GSGS & Done)
 ZCZC W01 45 L15 Assignment 5 (GSGS & Done)
+ZCZC W01 30 L16 Assignment 6 (GSGS)
+ZCZC W01 15 L21 Trying vim
+ZCZC W01 15 L71 GSGS further understanding of unix commands
+
