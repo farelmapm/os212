@@ -4,4 +4,4 @@ Hello! My name is Farel Musyaffa, and most people call me Farel. I'm pretty new 
 ---
 - [MyLog](https://farelmapm.github.io/os212/TXT/mylog.txt)
 - [My GitHub](https://github.com/farelmapm/os212/)
-- [Links](https://farelmapm.github.io/os212/links.md)
+- [Links](links.md)
