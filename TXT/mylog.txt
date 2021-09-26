@@ -28,8 +28,11 @@ ZCZC W02 15 L27 Generate new GnuPG key (GSGS)
 ZCZC W03 60 L03 Fixing personal git problem
 ZCZC W03 05 L14 Assignment 4 (Done)
 ZCZC W03 30 L15 Assignment 5 (Done)
-ZCZC W03 10 L16 Assignment 6 
-ZCZC W03 10 L17 Assignment 7
+ZCZC W03 10 L16 Assignment 6 (Done)
+ZCZC W03 10 L17 Assignment 7 (Done)
 ZCZC W03 05 L18 Assignment 8 (Done)
 ZCZC WO3 15 L03 Fixing personal git related problem again
+ZCZC W03 60 L11 Assignment 1 (Done)
+ZCZC W03 15 L12 Assignment 2
+ZCZC W03 15 L13 Assignment 3
 
