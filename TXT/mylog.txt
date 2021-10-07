@@ -46,3 +46,9 @@ ZCZC W04 05 L19 Assignment 9
 ZCZC W04 30 L11 Assignment 1 
 ZCZC W04 30 L13 Assignment 3
 
+ZCZC W04 10 L14 Assignment 4 - How low can you go? (185 MB)
+ZCZC W04 30 L14 Assignment 4
+ZCZC W04 30 L14 Assignment 4 (Continued, Done)
+ZCZC W04 15 L15 Assignment 5 (Done)
+ZCZC W04 15 L17 Assignment 7 (Done)
+ZCZC W04 10 L18 Assignment 8 (Done)
