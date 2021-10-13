@@ -14,3 +14,7 @@ ZCZC W04 huanis
 ZCZC W05 irhaml
 ZCZC W05 indiradr
 ZCZC W05 intervallie
+
+ZCZC W06 joyamanda
+ZCZC W06 kevinrazaqa
+ZCZC W06 johaneschristian

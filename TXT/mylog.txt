@@ -55,3 +55,10 @@ ZCZC W05 10 L18 Assignment 8 (Done)
 ZCZC W05 45 L11 Assignment 1
 ZCZC W05 45 L12 Assignment 2
 ZCZC W05 30 L13 Assignment 3
+
+ZCZC W06 45 L14 Assignment 4
+ZCZC W06 15 L15 Assignment 5 (GSGS, learning, and done)
+ZCZC W06 10 L17 Assignment 7
+ZCZC W06 10 L18 Assignment 8
+ZCZC W06 05 L19 Assignment 9
+
