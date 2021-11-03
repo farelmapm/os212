@@ -66,3 +66,7 @@ ZCZC W06 45 L11 Assignment 1
 ZCZC W06 45 L12 Assignment 2
 ZCZC W06 30 L13 Assignment 3
 
+ZCZC W07 45 L14 Assignment 4 (Done)
+ZCZC W07 10 L15 Assignment 5 (Done)
+ZCZC W07 10 L17 Assignment 7 (Done)
+ZCZC W07 10 L18 Assignment 8 (Done)
