@@ -73,3 +73,9 @@ ZCZC W07 10 L18 Assignment 8 (Done)
 ZCZC W07 60 L11 Assignment 1 (Reading chapter 6 to 8)
 ZCZC W07 45 L12 Assignment 2
 ZCZC W07 45 L13 Assignment 3
+
+ZCZC W08 45 L14 Assignment 4 (GSGS, Consulting with friend)
+ZCZC W08 90 L15 Assignment 5 (Done)
+ZCZC W08 10 L16 Assignment 6 (Determining what link to be added)
+ZCZC W08 10 L18 Assingment 8 (Comparing peer pages)
+ZCZC W08 10 L19 Assignment 9 (Done)
